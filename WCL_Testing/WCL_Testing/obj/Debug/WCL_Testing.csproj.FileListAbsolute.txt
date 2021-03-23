@@ -1,0 +1,14 @@
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\WCL_Testing.exe.config
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\WCL_Testing.exe
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\WCL_Testing.pdb
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\RestSharp.dll
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\bin\Debug\RestSharp.xml
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.Form1.resources
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.Properties.Resources.resources
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.csproj.GenerateResource.cache
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.csproj.CopyComplete
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.exe
+C:\Users\Dan\Documents\C# Dev\WCL_Testing\WCL_Testing\WCL_Testing\obj\Debug\WCL_Testing.pdb
